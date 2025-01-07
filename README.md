@@ -1,4 +1,4 @@
-  <img src="https://github.com/Sajidhunxai/Sajidhunxai/blob/main/banner.png" alt="Sajid profile banner" width="100%" height="auto" style="border-radius: 50%; border: 5px solid #4CAF50;" />
+  <img src="https://github.com/akashindex/akashindex/blob/main/banner.png" alt="akash profile banner" width="100%" height="auto" style="border-radius: 50%; border: 5px solid #4CAF50;" />
 
 # Hi there, I'm Akashali 👋
 
@@ -8,9 +8,9 @@ I am a dedicated software developer with experience in multiple programming lang
 
 ### Connect with Me:
 ---
-[![Upwork](https://img.shields.io/badge/Upwork-6FDA44.svg?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~010c36f2bcb52ef91f)
-[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73.svg?style=for-the-badge&logo=Fiverr&logoColor=white)](https://www.fiverr.com/sajid_wali)
-[![Github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Sajidhunxai)
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44.svg?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~014f9495ae5fd1ec7a)
+[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73.svg?style=for-the-badge&logo=Fiverr&logoColor=white)](https://www.fiverr.com/sellers/rizwansyeed)
+[![Github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/akashindex)
 
 
 ## 🛠️ Languages and Tools
