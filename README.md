@@ -1,5 +1,5 @@
 
-# Hi there, I'm ahsan ali 👋
+# Hi there, I'm akash ali 👋
 
 ## 🚀 About Me
 
