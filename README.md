@@ -43,7 +43,7 @@ Here are some of the technologies and tools I work with:
 <p align="center">
   <a href="https://www.linkedin.com/in/akash-ali-0045b3285/"><img src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin" alt="LinkedIn"></a>
   <a href="https://twitter.com/akashsyeed"><img src="https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=twitter" alt="Twitter"></a>
-  <a href="https://pkrgamez.com"><img src="https://img.shields.io/badge/-Website-05122A?style=flat&logo=google-chrome" alt="Personal Website"></a>
+  <a href=""><img src="https://img.shields.io/badge/-Website-05122A?style=flat&logo=google-chrome" alt="Personal Website"></a>
 </p>
 
 Feel free to reach out if you have any questions or want to collaborate on a project!
